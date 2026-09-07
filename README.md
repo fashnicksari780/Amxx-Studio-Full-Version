@@ -241,4 +241,4 @@ This repository serves as the official landing page for AMXX-Studio. The softwar
 **Get the most recent version of AMXX-Studio today!**
 
 ---
-**Last updated:** 2026-09-07 19:33:32 UTC
+**Last updated:** 2026-09-07 22:28:06 UTC
